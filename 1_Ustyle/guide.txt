@@ -1,0 +1,8 @@
+index - login/register
+home - user shop interface
+admin - admin panel interface
+shopping cart - cart info
+order - order info
+custom - custom interface
+
+
